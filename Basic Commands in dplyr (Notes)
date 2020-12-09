@@ -1,0 +1,8 @@
+Udemy- Data Manipulation with R
+Section 2- Basic dplyr commands
+1. filter()- used to select rows based on one or multiple criteria
+2. select()- used to select columns in a data frame
+3. mutate()- used to add new columns to a data frame
+4. arrange()- used to sort observations in a data frame, based on one or several criteria
+5. summarise()- used to compute summary statistics for the numeric variables in a data frame. 
+6. group_by()- converts our data frame into grouped data frame.
